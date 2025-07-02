@@ -37,6 +37,3 @@
 ### ⚡ Fun fact:
 I enjoy simplifying complex logic into clean and understandable code 💡
 
----
-
-> _"The best way to learn is by building."_ – Someone who codes 😊
